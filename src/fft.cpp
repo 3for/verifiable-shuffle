@@ -11,7 +11,7 @@
 #include "Cipher_elg.h"
 #include "G_q.h"
 #include "Mod_p.h"
-#include "functions.h"
+#include "Functions.h"
 #include "multi_expo.h"
 
 #include <NTL/ZZ.h>

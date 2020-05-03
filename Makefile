@@ -32,10 +32,10 @@ CXX = g++
 
 # compiler / linker flags
 CFLAGS= \
-        -02 \
+        -O2 \
         -I $(INC_DIR)
 CXXFLAGS=\
-	-02 \
+	-O2 \
         -I $(INC_DIR)
 
 LDFLAGS=
